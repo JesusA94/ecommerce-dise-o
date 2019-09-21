@@ -1,0 +1,116 @@
+body 
+{
+  background:#1c3147;
+}
+
+/*Navegacion y footer*/
+
+.navbar 
+{
+  box-shadow: 2px 2px 8px #000;
+  padding: 5px;
+  background: #008cba;
+}
+  
+.navbar .nav-item .nav-link 
+{
+  font-size: 15px;
+  padding: 10px;
+  color:white;
+}
+
+footer
+{
+  background: #008cba;
+  /*box-shadow: 2px 2px 2px #000;*/
+  color: white;
+  font-size: 15px;
+}
+.c 
+{
+  margin-top:10px;
+}
+
+
+
+
+/*Pagina Principal*/
+
+
+
+  
+/*Titulo */
+.titulo
+{
+  margin-bottom: 30px;
+  color: white;
+}
+.productos {
+    margin: 0px;
+    margin-bottom: 20px;
+    border: none;
+  }
+
+/*DETALLE Producto*/
+
+
+  
+/*Iniciar Sesion y Registrarse*/
+
+
+.logo
+{
+  width: 240px;
+  padding: 10px;
+}
+
+
+.header
+{
+  background: #008cba;
+  box-shadow: 2px 2px 8px #000;
+}
+
+
+/*Iniciar Sesion*/
+
+
+
+
+/*social git*/
+
+.btn-floating i 
+{
+  font-size: 1.25rem; 
+  line-height: 47px; 
+}
+
+.btn-git
+{
+  background-color: #333!important;
+  color: #fff;
+}
+.btn-yt
+{
+  background-color: #ed302f!important;
+  color: #fff;
+}
+.btn-fb {
+  background-color: #3b5998!important;
+  color: #fff;
+}
+.btn-floating 
+{
+  box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+  display: inline-block;
+  transition: all .2s ease-in-out;
+  margin: 9px;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 47px;
+  height: 47px;
+}
+.btn-floating:hover
+{
+  color: #fff;
+}
